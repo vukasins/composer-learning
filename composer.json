@@ -12,7 +12,7 @@
 		"type": "package",
 		"package": {
 		    "name": "vukasins/composer-learning",
-		    "version": "dev-master",
+		    "version": "dev",
 		    "source": {
 		        "url": "https://github.com/vukasins/composer-learning.git",
 		        "type": "git",
