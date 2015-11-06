@@ -6,6 +6,6 @@ class SayHello
 {
     public static function world()
     {
-        return 'Hello World, Composer!' . ' v2';
+        return 'Hello World, Composer!' . ' nove tag';
     }
 }
