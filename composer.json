@@ -7,6 +7,7 @@
             "email": "vukasin.stankovic@golive.rs"
         }
     ],
+    "version": "1.0.0-dev",
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"

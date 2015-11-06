@@ -7,10 +7,7 @@
             "email": "vukasin.stankovic@golive.rs"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.3.0"
-    },
+    "version": "1.0.0-dev"
     "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
